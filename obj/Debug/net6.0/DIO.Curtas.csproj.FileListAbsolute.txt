@@ -1,0 +1,15 @@
+C:\ProjetoFinal\DIO.Curtas\bin\Debug\net6.0\DIO.Curtas.exe
+C:\ProjetoFinal\DIO.Curtas\bin\Debug\net6.0\DIO.Curtas.deps.json
+C:\ProjetoFinal\DIO.Curtas\bin\Debug\net6.0\DIO.Curtas.runtimeconfig.json
+C:\ProjetoFinal\DIO.Curtas\bin\Debug\net6.0\DIO.Curtas.dll
+C:\ProjetoFinal\DIO.Curtas\bin\Debug\net6.0\ref\DIO.Curtas.dll
+C:\ProjetoFinal\DIO.Curtas\bin\Debug\net6.0\DIO.Curtas.pdb
+C:\ProjetoFinal\DIO.Curtas\obj\Debug\net6.0\DIO.Curtas.csproj.AssemblyReference.cache
+C:\ProjetoFinal\DIO.Curtas\obj\Debug\net6.0\DIO.Curtas.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoFinal\DIO.Curtas\obj\Debug\net6.0\DIO.Curtas.AssemblyInfoInputs.cache
+C:\ProjetoFinal\DIO.Curtas\obj\Debug\net6.0\DIO.Curtas.AssemblyInfo.cs
+C:\ProjetoFinal\DIO.Curtas\obj\Debug\net6.0\DIO.Curtas.csproj.CoreCompileInputs.cache
+C:\ProjetoFinal\DIO.Curtas\obj\Debug\net6.0\DIO.Curtas.dll
+C:\ProjetoFinal\DIO.Curtas\obj\Debug\net6.0\ref\DIO.Curtas.dll
+C:\ProjetoFinal\DIO.Curtas\obj\Debug\net6.0\DIO.Curtas.pdb
+C:\ProjetoFinal\DIO.Curtas\obj\Debug\net6.0\DIO.Curtas.genruntimeconfig.cache
